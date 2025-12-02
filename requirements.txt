@@ -1,0 +1,9 @@
+crewai
+crewai[tools]
+python-dotenv
+requests
+beautifulsoup4
+streamlit
+chromadb
+langchain
+tiktoken
