@@ -126,24 +126,7 @@ OPENAI_MODEL_NAME=gpt-3.5-turbo  # Default model
 - **Temperature Settings**: Adjust creativity vs accuracy in agent configurations
 - **UI Styling**: Customize CSS in the main application file
 
-## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements.txt
-
-# Run with debug mode
-streamlit run main.py --logger.level=debug
-```
 
 ## 📝 License
 
@@ -167,4 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <strong>Made with ❤️ using Streamlit & CrewAI</strong>
   <br>
   <sub>Transform websites into intelligent support assistants</sub>
+
 </div>
